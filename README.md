@@ -19,7 +19,6 @@ A basic calculator application built using Python and Tkinter.
 ## Screenshots
 
 ![Calculator Screenshot](Image/screenshot.png)  
-*Replace `screenshot.png` with your actual image file if you add one*
 
 ## Usage
 
